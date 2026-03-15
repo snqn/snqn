@@ -62,8 +62,8 @@ TODO: add example images
 Contributions welcome! Here's what exists so far:
 
 | Application / Tool | Repository | status |
-| --- | --- | --- |
-| [base16](https://github.com/chriskempson/base16) | [snqn/base16](https://github.com/snqn/base16) | in progress |
+| :--- | :--- | :---: |
+| [base16](https://github.com/chriskempson/base16) | [snqn/base16](https://github.com/snqn/base16) | ![DONE](https://img.shields.io/badge/DONE-62FF90?style=flat-square) |
 <!-- | [GTK](https://www.gtk.org/) | [74k1/yueye.gtk](https://github.com/74k1/yueye.gtk) | in progress | -->
 <!-- | [Kagi Search](https://kagi.com/) | [74k1/yueye.kagi.css](https://github.com/74k1/yueye.kagi.css) | in progress | -->
 <!-- | [Nix](https://nixos.org/) | [74k1/yueye.nix](https://github.com/74k1/yueye.nix) | in progress | -->
