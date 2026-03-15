@@ -1,20 +1,17 @@
 #  Sine qua non v0.3.0
 
-snqn is an opinionated high contrast dark theme. It consists of 26 colors and multiple themes/ports that I (and hopefully soon, the community) created.
+snqn is a highly curated, high-contrast dark theme. It consists of 16 colors and multiple themes/ports that I (and hopefully soon, the community) created.
 
 ## Philosophy
 
-I'll be blunt:
+My colorscheme, my rules. The core aesthetic stays intact. I don't negotiate on style.
 
-- This colorscheme and it's ports are *my* preferences, and I won’t compromise on its core style. **But!** You’re absolutely welcome to contribute:
-  - Found a bug or inconsistency in my ports? Open a GitHub issue or submit a pull request!
-  - Want to add your own port? Go for it! I’d love to see it!
+That said: bug reports and fixes are welcome. Build your own ports, too. :)
 
-And so; in my own opinion, the core rules should be:
-- **Stay high-contrast and dark.** (Though *maybe* I'll cave and add a light mode <img src="https://user-images.githubusercontent.com/49000471/258223152-6c644f95-2fd7-4db3-b266-b387a95f150c.png" height="16px" width="16px"> <sub>just maybe...</sub>)
-- **Stick to the palette below.**
-  - If a theme *requires* flexibility (e.g., more colors), use Alpha values (with RGBA) instead.
-- Ports / Themes should contain **NO ROUNDED CORNERS!**
+The hard limits:
+- High contrast, dark baseline. Light mode is a distant maybe.
+- Palette is law. Need extra colors? Blend with Alpha values. Do not introduce new hues.
+- No rounded corners. Not negotiable.
 
 ### Versioning
 
@@ -51,11 +48,9 @@ v0.3.0
 
 ## Naming Convention
 
-Use either `Sine qua non` or `snqn` where it makes sense. There's really not much more to it.
+Use either `Sine qua non` or `snqn` where it makes sense.
 
-## Showcase
-
-TODO: add example images
+There's really not much more to it.
 
 ## Ports
 
@@ -64,10 +59,10 @@ Contributions welcome! Here's what exists so far:
 | Application / Tool | Repository | status |
 | :--- | :--- | :---: |
 | [base16](https://github.com/chriskempson/base16) | [snqn/base16](https://github.com/snqn/base16) | ![DONE](https://img.shields.io/badge/DONE-62FF90?style=flat-square) |
-| [GTK](https://www.gtk.org/) | [74k1/yueye.gtk](https://github.com/74k1/yueye.gtk) | ![IN PROGRESS](https://img.shields.io/badge/IN PROGRESS-323246?style=flat-square) |
-| [Kagi Search](https://kagi.com/) | [74k1/yueye.kagi.css](https://github.com/74k1/yueye.kagi.css) | ![IN PROGRESS](https://img.shields.io/badge/IN PROGRESS-323246?style=flat-square) |
-| [Neovim](https://github.com/neovim/neovim) | [snqn/nvim](https://github.com/snqn/nvim) | ![IN PROGRESS](https://img.shields.io/badge/IN PROGRESS-323246?style=flat-square) | 
-| [Nix](https://nixos.org/) | [74k1/yueye.nix](https://github.com/74k1/yueye.nix) | ![IN PROGRESS](https://img.shields.io/badge/IN PROGRESS-323246?style=flat-square) |
+| [GTK](https://www.gtk.org/) | [74k1/yueye.gtk](https://github.com/74k1/yueye.gtk) | ![IN PROGRESS](https://img.shields.io/badge/IN_PROGRESS-323246?style=flat-square) |
+| [Kagi Search](https://kagi.com/) | [74k1/yueye.kagi.css](https://github.com/74k1/yueye.kagi.css) | ![IN PROGRESS](https://img.shields.io/badge/IN_PROGRESS-323246?style=flat-square) |
+| [Neovim](https://github.com/neovim/neovim) | [snqn/nvim](https://github.com/snqn/nvim) | ![IN PROGRESS](https://img.shields.io/badge/IN_PROGRESS-323246?style=flat-square) | 
+| [Nix](https://nixos.org/) | [74k1/yueye.nix](https://github.com/74k1/yueye.nix) | ![IN PROGRESS](https://img.shields.io/badge/IN_PROGRESS-323246?style=flat-square) |
 
 ## Contributing
 
