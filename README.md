@@ -64,19 +64,11 @@ Contributions welcome! Here's what exists so far:
 | Application / Tool | Repository | status |
 | :--- | :--- | :---: |
 | [base16](https://github.com/chriskempson/base16) | [snqn/base16](https://github.com/snqn/base16) | ![DONE](https://img.shields.io/badge/DONE-62FF90?style=flat-square) |
-<!-- | [GTK](https://www.gtk.org/) | [74k1/yueye.gtk](https://github.com/74k1/yueye.gtk) | in progress | -->
-<!-- | [Kagi Search](https://kagi.com/) | [74k1/yueye.kagi.css](https://github.com/74k1/yueye.kagi.css) | in progress | -->
-<!-- | [Nix](https://nixos.org/) | [74k1/yueye.nix](https://github.com/74k1/yueye.nix) | in progress | -->
+| [GTK](https://www.gtk.org/) | [74k1/yueye.gtk](https://github.com/74k1/yueye.gtk) | ![IN PROGRESS](https://img.shields.io/badge/IN PROGRESS-323246?style=flat-square) |
+| [Kagi Search](https://kagi.com/) | [74k1/yueye.kagi.css](https://github.com/74k1/yueye.kagi.css) | ![IN PROGRESS](https://img.shields.io/badge/IN PROGRESS-323246?style=flat-square) |
+| [Neovim](https://github.com/neovim/neovim) | [snqn/nvim](https://github.com/snqn/nvim) | ![IN PROGRESS](https://img.shields.io/badge/IN PROGRESS-323246?style=flat-square) | 
+| [Nix](https://nixos.org/) | [74k1/yueye.nix](https://github.com/74k1/yueye.nix) | ![IN PROGRESS](https://img.shields.io/badge/IN PROGRESS-323246?style=flat-square) |
 
 ## Contributing
 
 see [contributing](CONTRIBUTING.md) guide.
-
-<!-- #FE587C -->
-<!-- #4DE7C9 -->
-<!-- #FCE66F -->
-<!-- #62FF90 -->
-<!-- #58E7E2 -->
-<!-- #7285FE -->
-<!-- #8C6BFF -->
-<!-- #B967FF -->
