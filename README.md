@@ -1,30 +1,29 @@
-#  Sine qua non v0.3.0
+<img src="https://raw.githubusercontent.com/snqn/snqn/main/.github/assets/snqn.png" width="100" alt="Logo"/>
+<h3>Sine qua non</h3>
+<h4><samp>
+  <a href="https://github.com/snqn/snqn#philosophy">Philosophy</a>
+  /
+  <a href="https://github.com/snqn/snqn#palette">Palette</a>
+  /
+  <a href="https://github.com/snqn/snqn#ports">Ports</a>
+  / 
+  <a href="https://github.com/snqn/snqn#versioning">v0.3.0</a>
+</samp></h4>
 
-snqn is a highly curated, high-contrast dark theme. It consists of 16 colors and multiple themes/ports that I (and hopefully soon, the community) created.
+> Sine qua non is a Latin phrase meaninig "without which, not." It refers to something indispensable, an essential condition without which something else cannot exist or occur.
 
-## Philosophy
+`snqn` is a dogmatic, high-contrast dark theme. It consists of 16 colors and multiple themes/ports that I (and hopefully soon, the community) created.
 
-My colorscheme, my rules. The core aesthetic stays intact. I don't negotiate on style.
+### Philosophy
 
-That said: bug reports and fixes are welcome. Build your own ports, too. :)
+The philosophy behind this theme is catered towards **my** personal preferences. Please keep its core values intact:
 
-The hard limits:
 - High contrast, dark baseline. Light mode is a distant maybe.
 - Palette is law. Need extra colors? Blend with Alpha values. Do not introduce new hues.
-- No rounded corners. Not negotiable.
+- Mono space fonts wherever possible.
+- No rounded corners.
 
-### Versioning
-
-I bump the version once I change a color of the Palette below.
-
-```
-v0.3.0
- ╰─┼─┼─ Release Version / When I feel like I've perfected it (perhaps in 10+ years)
-   ╰─┼─ Major Version / After the palette has changed enough (when I update all of my [ports](#ports))
-     ╰─ Minor Version / Very small updates to the palette
-```
-
-## Palette
+### Palette
 
 | Color                                                                 | Base     | HEX       | RGB                   | OLKCH                        |
 | :---:                                                                 | :---     | :---      | :---                  | :---                         |
@@ -45,14 +44,24 @@ v0.3.0
 | ![#8C6BFF](https://img.shields.io/badge/_-8C6BFF?style=for-the-badge) | `base0E` | `#8C6BFF` |  `rgb(140, 107, 255)` | `oklch(0.635 0.21 289.279)`  |
 | ![#B967FF](https://img.shields.io/badge/_-B967FF?style=for-the-badge) | `base0F` | `#B967FF` |  `rgb(185, 103, 255)` | `oklch(0.674 0.221 306.199)` |
 
+### Versioning
 
-## Naming Convention
+I bump the version once I change a color of the Palette below.
 
-Use either `Sine qua non` or `snqn` where it makes sense.
+```
+v0.3.0
+ ╰─┼─┼─ Release Version / When I feel like I've perfected it (perhaps in 10+ years)
+   ╰─┼─ Major Version / After the palette has changed enough (when I update all of my [ports](#ports))
+     ╰─ Minor Version / Very small updates to the palette
+```
 
-There's really not much more to it.
+### Contributing
 
-## Ports
+Bug reports and fixes (or any type of contribution) are always welcome. Feel free to build your own ports, too. :)
+
+Also see the [contributing](CONTRIBUTING.md) guide.
+
+### Ports
 
 Contributions welcome! Here's what exists so far:
 
@@ -64,6 +73,10 @@ Contributions welcome! Here's what exists so far:
 | [GTK](https://www.gtk.org/) | [snqn/gtk](https://github.com/74k1/yueye.gtk) | ![IN PROGRESS](https://img.shields.io/badge/IN_PROGRESS-323246?style=flat-square) |
 | [Nix](https://nixos.org/) | [snqn/nix](https://github.com/74k1/yueye.nix) | ![IN PROGRESS](https://img.shields.io/badge/IN_PROGRESS-323246?style=flat-square) |
 
-## Contributing
+<br/>
 
-see [contributing](CONTRIBUTING.md) guide.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snqn/snqn/main/.github/assets/snqn_spacer.png" width="75%" />
+</p>
+
+<p align="center"><samp>Copyright © 2025-present SNQN</samp></p>
